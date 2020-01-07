@@ -5,8 +5,6 @@
 * @todo
 */
 
-//As far as what I can tell this should be working, but when I run it it tells me that math is undefined. I would appreciate it if you could help me out with this later.
-
 "use strict";
 const PROMPT = require('readline-sync');
 
